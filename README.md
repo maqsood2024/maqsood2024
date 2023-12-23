@@ -24,7 +24,7 @@ I'm Md Maqsood Alam, a passionate Software Engineer and MERN Stack Developer.
 - Version Control: Git, GitHub
 - Deployment: Heroku, Netlify, Vercel, Render
 - Tools: VSCode, Postman
-- 📫 How to reach me: **<a href="mailto:someone@example.com">email</a>**
+- 📫 How to reach me: **<a href="mailto:maqsood2420@gmail.com">email</a>**
 
 🌱 **I'm currently learning:**
 - Next.js
