@@ -32,7 +32,7 @@ I'm Md Maqsood Alam, a passionate Software Engineer and MERN Stack Developer.
 
 📫 **Contact with me:**
 <p align="left">
-<a href="https://www.linkedin.com/in/md-maqsood-alam-286615254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-maqsood-alam-286615254/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-maqsood-alam-286615254/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-maqsood-alam-286615254/" height="30" width="40" /></a>
 </p><br/>
 
 
