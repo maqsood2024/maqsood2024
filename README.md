@@ -26,14 +26,11 @@ I'm Md Maqsood Alam, a passionate Software Engineer and MERN Stack Developer.
 - Tools: VSCode, Postman
 - 📫 How to reach me: **<a href="mailto:maqsood2420@gmail.com">email</a>**
 
+
 🌱 **I'm currently learning:**
 - Next.js
+- DevOps
 
-
-📫 **Contact with me:**
-<p align="left">
-<a href="https://www.linkedin.com/in/md-maqsood-alam-286615254/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-maqsood-alam-286615254/" height="30" width="40" /></a>
-</p><br/>
 
 
 **Languages and Tools:**
