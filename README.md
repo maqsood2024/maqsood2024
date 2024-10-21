@@ -13,22 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-I'm Md Maqsood Alam, a passionate Software Engineer and MERN Stack Developer.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maqsood2024&label=Profile%20views&color=0e75b6&style=flat" alt="maqsood2024" /> </p>
 
 🚀 **Skills:**
-- Frontend: HTML, CSS, JavaScript (ES6+), React.js
+- Frontend: HTML, CSS, Tailwind CSS, Shadcn, JavaScript, TypeScript, React.js, Next.js
 - Backend: Node.js, Express.js
-- Database: MongoDB, MySQL
-- Version Control: Git, GitHub
-- Deployment: Heroku, Netlify, Vercel, Render
-- Tools: VSCode, Postman
+- Database: MongoDB, MySQL, Postgres
 - 📫 How to reach me: **<a href="mailto:maqsood2420@gmail.com">email</a>**
 
 
 🌱 **I'm currently learning:**
-- Next.js
 - DevOps
 
 
@@ -59,8 +53,6 @@ I'm Md Maqsood Alam, a passionate Software Engineer and MERN Stack Developer.
 
 
 👨‍💻 **My Stats:**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maqsood2024&layout=compact)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=maqsood2024&show_icons=true&theme=radical)
 
